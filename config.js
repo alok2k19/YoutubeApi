@@ -16,7 +16,7 @@ const config = {
         VIDEO_MINING_INTERVAL: '*/1 * * * *' // every 10 minutes
     },
     db_credentials: {
-        MONGO_URI: "mongodb+srv://radic_alok:tmsemtlb@nodeexpressprojects.tmbjjzf.mongodb.net/?retryWrites=true&w=majority"
+        MONGO_URI: "mongodb+srv://radic_alok:tmsemtlb@nodeexpressprojects.tmbjjzf.mongodb.net/test?retryWrites=true&w=majority"
     },
 }
 module.exports = config;
